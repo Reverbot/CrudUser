@@ -1,1 +1,1 @@
-Curd completo
+Crud completo
